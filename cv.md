@@ -18,11 +18,13 @@
 
 + #### 谷链项目 *(2017-11 ~ 2018-03)*
 
-    区块链技术应用，在项目中担任PO角色，结合公司现有业务，将用户及交易信息存储在区块链上，搭建私有链，开发REST API，相关技术： Ethereum | Solidity | Truffle | Ganache | Node.js | NPM | web3j | PM2 | Java | MySQL | Swagger | SpringBoot 等
+    区块链技术应用，在项目中担任PO角色，结合公司现有业务，将用户及交易信息存储在区块链上，搭建私有链，开发REST API，
+    相关技术： Ethereum | Solidity | Truffle | Ganache | Node.js | NPM | web3j | PM2 | Java | MySQL | Swagger | SpringBoot 等
 
 - #### 资产管理系统 *(2016-12 ~ 2017-06)*
 
-    .Net项目，分案、催收、划扣、流水勘误等贷后相关业务。担任研发经理，负责项目管理、技术架构搭建、数据迁移、代码Review等，相关技术： C# | MVC | WebApi | EF | IBatisNet | Castle | Unity | SQLServer | MySQL | RabbitMQ 等
+    .Net项目，分案、催收、划扣、流水勘误等贷后相关业务。担任研发经理，负责项目管理、技术架构搭建、数据迁移、代码Review等，
+    相关技术： C# | MVC | WebApi | EF | IBatisNet | Castle | Unity | SQLServer | MySQL | RabbitMQ 等
 
 * #### 贷后管理系统、运营系统、客服系统、财务匹配系统、月还跑批等 *(2016-06 ~ 2017-11)*
 
@@ -86,7 +88,7 @@
 
 + #### 道路工程信息管理系统 *(2010-05~2010-09)*
 
-    天津交管局道路施工信息管理系统，负责需求分析，设计开发，测试部署，相关技术： C# | WebForm | SQL Server  等
+    交管局道路施工信息管理系统，负责需求分析，设计开发，测试部署，相关技术： C# | WebForm | SQL Server  等
 
 - #### 雇员服务管理系统 *(2009-02~2009-06)*
 
@@ -111,7 +113,7 @@
     熟练使用的技能
 * 开发语言：Java | C#
 * Web框架：SSH(M) | MVC | WebAPI | WCF | WPF
-* 前端技术：AngularJS | Bootstrap | HTML5 | CSS | Vue
+* 前端技术：AngularJS | Bootstrap | HTML5 | CSS | React
 * 前端工具：Node | NPM | Brow | Grunt | TypeScript
 * 数据库：MySQL | SQL Server | Oracle
 * 版本管理：SVN | Git | TFS | CVS | VSS
